@@ -22,7 +22,7 @@ Previous Versions:
 
 # Cold War
 
-Latest -
+Latest:
 > https://warzonespoofer.com/BlackOpsColdWar_dump_08_09_2021.exe
 
 Previous Versions:
