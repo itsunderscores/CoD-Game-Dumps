@@ -8,9 +8,10 @@ Latest Update: 08/09/2021
 
 # Modern Warfare / Warzone
 
-Latest -
+Latest:
 > https://warzonespoofer.com/ModernWarfare_dump_08_09_21.exe
 
+Previous Versions:
 > https://warzonespoofer.com/ModernWarfare_dump_7_31_21.exe
 
 > https://warzonespoofer.com/ModernWarfare_dump_07_20_2021.exe
@@ -23,3 +24,5 @@ Latest -
 
 Latest -
 > https://warzonespoofer.com/BlackOpsColdWar_dump_08_09_2021.exe
+
+Previous Versions:
