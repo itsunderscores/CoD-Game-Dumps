@@ -4,6 +4,8 @@ Here are the currently game dumps of:
 * Warzone
 * Cold War
 
+Latest Update: 08/09/2021
+
 # Modern Warfare / Warzone
 
 > https://warzonespoofer.com/ModernWarfare_dump_7_31_21.exe
