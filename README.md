@@ -6,7 +6,7 @@ Here are the currently game dumps of:
 
 Github: https://discord.gg/MVze3cC9zj
 
-Latest Update: 08/09/2021
+Last Updated: 08/15/2021
 
 # Modern Warfare / Warzone
 
